@@ -16,7 +16,6 @@ import java.util.*;
 public class Main
 {
     public static void main(String args[]) throws Exception{
-
         Scanner in = new Scanner(System.in);
         System.out.println("Enter following:");
         System.out.println("height/width/maxIterations/ports");
@@ -73,9 +72,6 @@ public class Main
          * Wait for the request task to complete before finishing the program.
          */
         task.join();
-
-
-
     }
 }
 /**
