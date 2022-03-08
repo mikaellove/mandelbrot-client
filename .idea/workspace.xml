@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cea6350-44af-4c75-b16b-3ffdbd53d3cf" name="Changes" comment="" />
+    <list default="true" id="1cea6350-44af-4c75-b16b-3ffdbd53d3cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25pU9Cc4Pz3lieyylnLwEewY0Ys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -72,7 +79,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../repos/java-asgmt-3-hibernate" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-asgmt-3-hibernate" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -106,7 +114,8 @@
       <updated>1646223371617</updated>
       <workItem from="1646223372824" duration="8961000" />
       <workItem from="1646481551851" duration="18731000" />
-      <workItem from="1646637918678" duration="20110000" />
+      <workItem from="1646637918678" duration="20459000" />
+      <workItem from="1646724893458" duration="2260000" />
     </task>
     <servers />
   </component>

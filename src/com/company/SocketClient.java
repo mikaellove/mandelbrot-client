@@ -20,6 +20,9 @@ public class SocketClient {
         try {
             Socket socket = new Socket(ip,port);
 
+            /**
+             * Input and output stream to send and receive data.
+             */
             serverDis = new DataInputStream(socket.getInputStream());
             serverDos = new DataOutputStream(socket.getOutputStream());
         } catch (IOException e) {
